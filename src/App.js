@@ -33,7 +33,7 @@ const H1 = styled.h1`
     content: '';
     width: 100%;
     height: 6px;
-    background: linear-gradient(to right, yellow, red);
+    background-color: #66A2FE;
     display:block;
   }
 `;
